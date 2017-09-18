@@ -1,0 +1,102 @@
+june 2016
+
+content aware crop
+select and mask
+face aware liquify
+capture pattern
+match font
+artboards: background color, duplicate
+font/type: grouped by family, glyph
+oil painter filter
+
+Que versão você usa… de fato?!
+
+
+# Trilha Content Aware:
+content aware - sensível ao conteúdo / PS “vê/entende” sua imagem
+
+CS4 2008:
+content-aware scale
+puppet warp
+
+CS5 2010:
+a tecnologia se espalha por dentro de outras ferramentas
+content-aware fill
+content-aware spot healing brush
+
+CS6 2012:
+a tecnologia se espalha por dentro de outras ferramentas
+content-aware move
+content-aware patch
+
+CC 2013…:
+content-aware move & extended with scale and rotation
+automatic CA for stitched panoramic images
+CA fro crop images
+
+ 
+# Trilha Warp
+Faz parte do content aware, que entende o conteúdo
+
+CS5 2010:
+puppet warp
+
+CC 2013…:
+perspective warp
+
+
+# Trilha Web/Mobile
+Ferramentas que atenderam às necessidades do mercado Web/Mobile
+CC 2013…:
+Export CSS codes
+Adobe Generator
+ [ https://adobe.ly/2koP7rw ]
+Rounded rectangles
+Improved Layer Comps
+Artboards
+Device Preview
+Assets export
+Linked smart objects
+Libraries
+Adobe XD integration
+
+
+# Trilha time-savers
+conditional actions
+
+
+
+# Spark
+
+
+# edex
+
+
+# managed server
+
+
+# acrobat
+  principalmente segurança
+
+
+# edu / com
+# gov / com
+
+
+
+CS	2003
+CS2	2005
+CS3	2007
+CS4	2008
+CS5	2010
+CS5.1	2011
+CS6	2012
+CC	2013
+CC14	2014
+CC15	2015/16
+CC17	16/17
+
+agomes@adobe.com
+
+
+
